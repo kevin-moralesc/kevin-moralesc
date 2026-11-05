@@ -67,9 +67,28 @@ Para la sección de proyectos del portafolio seleccioné tres trabajos, combinan
 | :--- | :---: | :---: | :---: |
 | ¿Está en un repositorio independiente? | No (está en carpeta) | No (está en carpeta) | Sí |
 | ¿Tiene descripción corta, *topics* y link a Demo? | Me falta | Me falta | Falta ajustar *topics* |
-| ¿Tiene su propio README.md con capturas y guía? | Me falta | Me falta | Sí (bien estructurado) |
+| ¿Tiene su propio README.md con capturas y guía? | Me falta | Sí (bien estructurado) | Sí (bien estructurado) |
 | ¿Tiene Licencia y archivo `.gitignore`? | Solo en la raíz | Solo en la raíz | Sí (Licencia MIT) |
-| ¿Commits seguidos y con mensajes claros? | Por mejorar | Por mejorar | Mensajes descriptivos |
+| ¿Commits seguidos y con mensajes claros? | Por mejorar | Mensajes descriptivos | Mensajes descriptivos |
 | ¿Código fuente / entregable disponible? | Interfaz Python + SQL | Código MIPS | Código Python completo |
 
-**Identificación de faltantes:** Mientras que el proyecto personal de la Calculadora Científica ya cuenta con repositorio propio, código fuente y un `README.md` completo, a los dos proyectos hechos en la universidad les falta contar con sus propios archivos `README.md` individuales, capturas de pantalla de las aplicaciones y la configuración de etiquetas (*topics*) en GitHub.
+## 4. Revisión de mis Repositorios
+
+Para la sección de proyectos del portafolio seleccioné tres trabajos, combinando proyectos académicos del repositorio centralizado [`ESPOL-projects`](https://github.com/kevin-moralesc/ESPOL-projects) con un proyecto personal independiente:
+
+- **Proyecto 1:** Sistemas de Bases de Datos (`database-systems/project` - Interfaz gráfica en Python conectada a MySQL con operaciones CRUD en tiempo real).
+- **Proyecto 2:** Organización de Computadores (`computer-organization/project` - Simulador del Mundial FIFA 2026 en Assembly MIPS).
+- **Proyecto 3 (Personal):** Calculadora Científica ([`scientific-calculator`](https://github.com/kevin-moralesc/scientific-calculator) - Aplicación de escritorio en Python con interfaz Tkinter y evaluador seguro AST).
+
+### Tabla de Diagnóstico
+
+| Criterio a verificar | Proyecto 1 (Bases de Datos) | Proyecto 2 (MIPS FIFA) | Proyecto 3 (Calculadora Científica) |
+| :--- | :---: | :---: | :---: |
+| ¿Está en un repositorio independiente? | No (está en carpeta) | No (está en carpeta) | Sí |
+| ¿Tiene descripción corta, *topics* y link a Demo? | Me falta | Me falta | Falta ajustar *topics* |
+| ¿Tiene su propio README.md con capturas y guía? | Me falta | Sí (bien estructurado) | Sí (bien estructurado) |
+| ¿Tiene Licencia y archivo `.gitignore`? | Solo en la raíz | Solo en la raíz | Sí (Licencia MIT) |
+| ¿Commits seguidos y con mensajes claros? | Por mejorar | Mensajes descriptivos | Mensajes descriptivos |
+| ¿Código fuente / entregable disponible? | Interfaz Python + SQL | Código MIPS | Código Python completo |
+
+**Identificación de faltantes:** Tanto el proyecto personal de la Calculadora Científica como el proyecto del Mundial FIFA en MIPS cuentan con sus propios archivos `README.md` bien estructurados. Únicamente al proyecto de Bases de Datos le falta crear su archivo `README.md` individual con sus respectivas capturas. A los dos proyectos universitarios les falta configurar etiquetas (*topics*) y enlaces directos a sus demos o guías en GitHub.
