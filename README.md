@@ -64,7 +64,15 @@ Me enfoco en la construcción de aplicaciones funcionales conectando la lógica 
 
 ---
 
-### 3. Calculadora Científica Segura
+### 3. Calculadora Científica 
 * **Descripción:** Calculadora científica gráfica desarrollada en Python que procesa expresiones matemáticas complejas de forma segura mediante el parser AST , evitando vulnerabilidades de ejecución.
 * **Tecnologías:** Python 3, Tkinter, AST, Licencia MIT.
 * **Repositorio:** [Ver repositorio en GitHub](https://github.com/kevin-moralesc/scientific-calculator)
+
+---
+
+## Contacto
+
+- **Correo electrónico:** [kevmoral@espol.edu.ec](mailto:kevmoral@espol.edu.ec)
+- **GitHub:** [kevin-moralesc](https://github.com/kevin-moralesc)
+- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/kevin-moralesc/)
