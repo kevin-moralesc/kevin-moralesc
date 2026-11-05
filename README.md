@@ -45,3 +45,26 @@ Me enfoco en la construcción de aplicaciones funcionales conectando la lógica 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+
+---
+
+## Proyectos Destacados
+
+### 1. Sistema de Gestión CRUD de Bases de Datos
+* **Descripción:** Aplicación de escritorio con interfaz gráfica en Python conectada a MySQL que permite la administración completa de registros (Crear, Leer, Actualizar, Eliminar) en tiempo real.
+* **Tecnologías:** Python, MySQL, Tkinter.
+* **Repositorio:** [Ver proyecto en ESPOL-projects](https://github.com/kevin-moralesc/ESPOL-projects/tree/main/database-systems/project)
+
+---
+
+### 2. Simulador de la Fase de Grupos - Mundial FIFA 2026
+* **Descripción:** Programa desarrollado en Assembly MIPS que simula la fase de grupos del Mundial de Fútbol, ordenando la tabla de posiciones según puntos y diferencia de goles mediante algoritmos a nivel de arquitectura.
+* **Tecnologías:** Assembly MIPS, Mipsy Web / MARS.
+* **Repositorio:** [Ver proyecto en ESPOL-projects](https://github.com/kevin-moralesc/ESPOL-projects/tree/main/computer-organization/project)
+
+---
+
+### 3. Calculadora Científica Segura
+* **Descripción:** Calculadora científica gráfica desarrollada en Python que procesa expresiones matemáticas complejas de forma segura mediante el parser AST , evitando vulnerabilidades de ejecución.
+* **Tecnologías:** Python 3, Tkinter, AST, Licencia MIT.
+* **Repositorio:** [Ver repositorio en GitHub](https://github.com/kevin-moralesc/scientific-calculator)
